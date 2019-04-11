@@ -1,0 +1,5 @@
+Firebase deploy :
+https://pwa-dengan-workbox.firebaseapp.com/
+
+Github repo :
+https://github.com/dharmach/football-info
