@@ -1,0 +1,18 @@
+{
+    "name": "Football Info",
+    "short_name": "Football",
+    "description": "Informasi/Jadwal Football",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#00897B",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+  "name": "Push Notifications FCM",
+  "gcm_sender_id": "929873852001"
+}
